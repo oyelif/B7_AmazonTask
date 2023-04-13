@@ -21,6 +21,6 @@ public class YourListPage extends BasePage {
         listName.sendKeys(accountListName);
         createListBtnPopUp.click();
         //cancelCreateListOnPopUp.click();
-        
+
     }
 }
